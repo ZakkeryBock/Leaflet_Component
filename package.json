@@ -1,5 +1,5 @@
 {
-  "name": "Leaflet_Component_WeWeb",
+  "name": "weweb-leaflet-component",
   "version": "1.0.0",
   "description": "Reusable Leaflet map component for WeWeb",
   "main": "ww-config.js",
@@ -11,11 +11,3 @@
   "license": "MIT",
   "dependencies": {}
 }
-```
-
-Update `.gitignore`:
-```
-node_modules/
-.DS_Store
-*.log
-.env
